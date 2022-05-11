@@ -1,0 +1,3 @@
+﻿  WordCount.cpp
+E:\CoderLife\GitTest\WordCount\WordCount.cpp(5,30): warning C4083: 应输入“newline”；找到标识符“；”
+  WordCount.vcxproj -> E:\CoderLife\GitTest\WordCount\Debug\WordCount.exe
